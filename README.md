@@ -7,6 +7,10 @@ I am following structured playlists and solving hands-on questions to improve st
 ## Current Topics Covered:
 - Variables, Data Types and Operators
 - Conditional Statements and Loops
+- Patterns
+- Functions
+- Binary Number System
+- Array Data Structure
 
 ---
 
