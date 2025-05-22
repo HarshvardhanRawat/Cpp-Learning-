@@ -11,6 +11,9 @@ I am following structured playlists and solving hands-on questions to improve st
 - Functions
 - Binary Number System
 - Array Data Structure
+- Vectors
+- Maximum Subarray Sum
+- Majority Element
 
 ---
 
