@@ -4,7 +4,7 @@ I am following structured playlists and solving hands-on questions to improve st
 
 ---
 
-## Current Topics Covered:
+## Current Topics Covered in Phase 0 :
 - Variables, Data Types and Operators
 - Conditional Statements and Loops
 - Patterns
