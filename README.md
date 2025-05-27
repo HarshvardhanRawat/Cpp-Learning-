@@ -14,6 +14,12 @@ I am following structured playlists and solving hands-on questions to improve st
 - Vectors
 - Maximum Subarray Sum
 - Majority Element
+- Power(X,N) Power Exponential Problem
+- Stock Buy & Sell
+- Container with water
+- Product of an array except self
+- Pointer
+- Binary Search
 
 ---
 
