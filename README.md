@@ -20,6 +20,7 @@ I am following structured playlists and solving hands-on questions to improve st
 - Product of an array except self
 - Pointer
 - Binary Search
+- Sorting
 
 ---
 
